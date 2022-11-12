@@ -1,7 +1,9 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "Hello World!";
+    const double pi = 3.14;
+    cout<<pi<<endl;
     return 0;
 }
 
