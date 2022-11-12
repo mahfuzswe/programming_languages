@@ -2,8 +2,6 @@
 using namespace std;
 
 int main(){
-    //file_size --> snake case
-
+    cout<<"Hello!"<<endl;
     return 0;
 }
-
