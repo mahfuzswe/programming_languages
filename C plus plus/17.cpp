@@ -4,9 +4,9 @@
 using namespace std;
 
 int main(){
-
-    double result = pow(2,3);
-    cout<<result;
+    
+    //declare a variable and a initialize to 0
+    int x=0;
 
     return 0;
 }
